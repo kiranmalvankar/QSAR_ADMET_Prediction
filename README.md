@@ -24,5 +24,5 @@ cheminformatics and machine learning techniques.
 - LightGBM / XGBoost
 - Pandas, NumPy
 
-## Status
-Work in progress – models and notebooks will be added.
+## Models
+- QSAR Absorption Prediction (Human Intestinal Absorption) – RDKit + ML
